@@ -6,4 +6,4 @@
 确保已经正确配置依赖与环境
 
 详情请看视频
-(录制中....)
+(https://www.bilibili.com/video/BV1hg411z7k6/)
